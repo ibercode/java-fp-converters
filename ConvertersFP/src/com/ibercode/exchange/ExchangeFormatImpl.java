@@ -11,6 +11,7 @@ public class ExchangeFormatImpl implements ExchangeFormat{
 
 	@Override
 	public Display toDollar(Double value) {
+		
 		return edi -> edi.showValue(value * 1.12496, "$");
 	}
 

@@ -1,6 +1,5 @@
 package com.ibercode.exchange;
 
-
 public class App {
 
 	private static double value = 100;
@@ -16,7 +15,5 @@ public class App {
 			.convertToDollar(value)
 					.exchange(new ExchangeFormatImpl())
 					.display(new ExchangeDisplayImpl());
-			
-		
 	}
 }
