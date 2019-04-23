@@ -1,4 +1,4 @@
-package com.ibercode.exchange;
+package com.ibercode.exchange.api;
 
 public interface ExchangeFormat {
 

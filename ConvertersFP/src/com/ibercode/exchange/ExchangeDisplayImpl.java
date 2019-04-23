@@ -1,5 +1,7 @@
 package com.ibercode.exchange;
 
+import com.ibercode.exchange.api.ExchangeDisplay;
+
 public class ExchangeDisplayImpl implements ExchangeDisplay{
 
 	@Override

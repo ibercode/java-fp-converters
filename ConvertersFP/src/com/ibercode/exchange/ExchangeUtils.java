@@ -1,5 +1,6 @@
 package com.ibercode.exchange;
 
+import com.ibercode.exchange.api.Exchange;
 
 public class ExchangeUtils {
 

@@ -1,4 +1,4 @@
-package com.ibercode.exchange;
+package com.ibercode.exchange.api;
 
 public interface ExchangeDisplay {
 	void showValue(double value, String currency);
